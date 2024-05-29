@@ -1,0 +1,197 @@
+Course name,Recommended by how many people,Reasons for choosing,Job opportunities,Course fee (INR),Course duration (months),Course Decision
+B.Sc Physics,4,Strong research opportunities,3,40000,12,0
+B.A. Journalism,3,Strong writing skills,3,50000,12,0
+B.Tech Computer Science,5,High demand in IT Sector,5,60000,36,1
+B.Tech Mechanical,5,High scope,4,40000,36,0
+B.Com,4,Commerce background,3,55000,24,1
+B.A. History,2,Interest in history,2,45000,24,0
+B.A. English Literature,3,Passion for literature,3,50000,24,1
+BBA,4,Interest in business,4,60000,24,0
+B.Sc Chemistry,3,Interest in chemistry,3,45000,12,1
+B.Tech Electrical,4,Interest in electronics,4,55000,36,0
+B.A. Psychology,3,Interest in human behavior,3,50000,24,0
+B.A. Economics,4,Interest in economics,4,55000,24,1
+B.Tech Civil,2,Interest in construction,3,60000,36,0
+B.Sc Mathematics,5,Strong analytical skills,5,45000,12,1
+B.Design,3,Creative inclination,3,55000,24,0
+B.Pharmacy,4,Interest in healthcare,4,60000,48,1
+B.Architecture,3,Interest in design,3,65000,60,0
+B.Tech Biotechnology,4,Interest in biotech,4,70000,48,1
+B.A. Political Science,2,Interest in politics,2,50000,24,0
+B.F.A. (Fine Arts),3,Passion for arts,3,55000,48,1
+B.Sc Nursing,4,Interest in healthcare,5,60000,48,0
+B.Tech Aerospace,5,Interest in aerospace,5,65000,48,1
+B.A. Sociology,3,Interest in social sciences,3,50000,24,0
+B.Tech Agriculture,4,Interest in agriculture,4,55000,48,0
+B.Com (Hons),3,Commerce background,4,60000,24,1
+B.A. Geography,2,Interest in geography,2,45000,24,0
+B.Tech Electronics & Communication,4,Interest in electronics,4,55000,36,1
+B.Sc Biotechnology,3,Interest in biotech,4,60000,36,0
+B.A. Philosophy,4,Interest in philosophy,3,50000,24,1
+B.Tech Information Technology,5,Interest in IT,5,60000,36,0
+B.Sc. Computer Science,5,Interest in computer science,5,65000,24,1
+B.A. Linguistics,3,Interest in languages,3,55000,24,0
+B.Tech Artificial Intelligence,5,Interest in AI,5,70000,48,1
+B.Sc. Statistics,4,Interest in statistics,4,60000,24,0
+B.A. Anthropology,2,Interest in anthropology,2,50000,24,0
+B.Tech Chemical,4,Interest in chemistry,4,55000,36,1
+B.Sc. Environmental Science,3,Interest in environment,3,60000,24,0
+B.A. Archaeology,4,Interest in archaeology,3,65000,24,1
+B.Tech Robotics,5,Interest in robotics,5,70000,48,0
+B.Sc. Physics,4,Interest in physics,4,60000,24,1
+B.A. Music,3,Passion for music,3,55000,24,0
+B.Tech Industrial,4,Interest in industry,4,65000,36,1
+B.Sc. Zoology,3,Interest in zoology,3,60000,24,0
+B.A. Religion,2,Interest in religion,2,55000,24,0
+B.Tech Nanotechnology,4,Interest in nanotech,4,70000,48,1
+B.Sc. Botany,3,Interest in botany,3,55000,24,0
+B.A. Public Administration,4,Interest in public admin,3,60000,24,1
+B.Tech Mechatronics,5,Interest in mechatronics,5,70000,48,0
+B.Sc. Microbiology,4,Interest in microbiology,4,60000,24,1
+B.A. Dance,3,Passion for dance,3,55000,24,0
+B.Tech Geoinformatics,4,Interest in geoinformatics,4,75000,48,1
+B.Sc. Home Science,3,Interest in home science,3,60000,24,0
+B.A. Criminology,2,Interest in criminology,2,55000,24,0
+B.Tech Metallurgical,4,Interest in metallurgy,4,80000,48,1
+B.Sc. Homeopathy,4,Interest in homeopathy,4,60000,24,0
+B.A. Theatre Arts,3,Passion for theater,3,55000,24,1
+B.Tech Marine,5,Interest in marine sciences,5,85000,48,0
+B.Sc. Dairy Technology,4,Interest in dairy tech,4,60000,24,1
+B.A. Women's Studies,3,Interest in women's studies,3,55000,24,0
+B.Tech Petroleum,4,Interest in petroleum,4,90000,48,1
+B.Sc. Forestry,2,Interest in forestry,2,60000,24,0
+B.A. Fashion Design,4,Interest in fashion,4,55000,24,1
+B.Tech Biomedical,5,Interest in biomedical,5,95000,48,0
+B.Sc. Genetics,4,Interest in genetics,4,60000,24,1
+B.A. Film Studies,3,Passion for films,3,55000,24,0
+B.Tech Food Technology,4,Interest in food tech,4,100000,48,1
+B.Sc. Dairy Science,3,Interest in dairy science,3,60000,24,0
+B.A. Wildlife Conservation,2,Interest in wildlife,2,55000,24,1
+B.Tech Bioprocess,4,Interest in bioprocess,4,105000,48,0
+B.Sc. Sericulture,4,Interest in sericulture,4,60000,24,1
+B.A. Digital Media,3,Interest in digital media,3,55000,24,0
+B.Tech Environmental,5,Interest in environment,5,110000,48,1
+B.Sc. Nanoscience,4,Interest in nanoscience,4,60000,24,0
+B.A. Linguistics,3,Interest in languages,3,55000,24,1
+B.Tech Textile,4,Interest in textiles,4,115000,48,0
+B.Sc. Horticulture,2,Interest in horticulture,2,60000,24,1
+B.A. Education,3,Interest in education,3,55000,24,0
+B.Tech Robotics and Automation,4,Interest in robotics,4,120000,48,1
+B.Sc. Geology,5,Interest in geology,5,60000,24,0
+B.A. Social Work,4,Interest in social work,4,55000,24,1
+B.Tech Aerospace,3,Interest in aerospace,3,125000,48,0
+B.Sc. Fisheries,4,Interest in fisheries,4,60000,24,1
+B.A. Mathematics,3,Interest in mathematics,3,55000,24,0
+B.Tech Metallurgical,4,Interest in metallurgy,4,130000,48,1
+B.Sc. Agriculture,5,Interest in agriculture,5,60000,24,0
+B.A. Geography,4,Interest in geography,4,55000,24,1
+B.Tech Chemical,3,Interest in chemistry,3,135000,48,0
+B.Sc. Food Technology,4,Interest in food tech,4,60000,24,1
+B.A. Archaeology,3,Interest in archaeology,3,55000,24,0
+B.Tech Electronics & Communication,4,Interest in electronics,4,140000,48,1
+B.Sc. Forestry,2,Interest in forestry,2,60000,24,0
+B.A. Political Science,4,Interest in politics,4,55000,24,1
+B.Tech Biotechnology,5,Interest in biotechnology,5,145000,48,0
+B.Sc. Microbiology,4,Interest in microbiology,4,60000,24,1
+B.A. Sociology,3,Interest in sociology,3,55000,24,0
+B.Tech Civil,4,Interest in civil engineering,4,150000,48,1
+B.Sc. Botany,3,Interest in botany,3,60000,24,0
+B.A. Psychology,4,Interest in psychology,4,55000,24,1
+B.Tech Information Technology,5,Interest in IT,5,155000,48,0
+B.Sc. Zoology,4,Interest in zoology,4,60000,24,1
+B.A. Economics,3,Interest in economics,3,55000,24,0
+B.Tech Mechanical,4,Interest in mechanical engineering,4,160000,48,1
+B.Sc. Environmental Science,2,Interest in environmental science,2,60000,24,0
+B.A. Philosophy,4,Interest in philosophy,4,55000,24,1
+B.Tech Electrical,3,Interest in electrical engineering,3,165000,48,0
+B.Sc. Computer Science,4,Interest in computer science,4,60000,24,1
+B.A. Anthropology,5,Interest in anthropology,5,170000,48,0
+B.Tech Aerospace,4,Interest in aerospace engineering,4,60000,24,1
+B.Sc. Physics,3,Interest in physics,3,55000,24,0
+B.A. Music,4,Interest in music,4,60000,24,1
+B.Tech Industrial,5,Interest in industrial engineering,5,175000,48,0
+B.Sc. Mathematics,4,Interest in mathematics,4,55000,24,1
+B.A. Geography,3,Interest in geography,3,60000,24,0
+B.Tech Chemical,4,Interest in chemical engineering,4,180000,48,1
+B.Sc. Statistics,2,Interest in statistics,2,55000,24,0
+B.A. Linguistics,4,Interest in linguistics,4,60000,24,1
+B.Tech Mechatronics,5,Interest in mechatronics engineering,5,185000,48,0
+B.Sc. Biology,4,Interest in biology,4,55000,24,1
+B.A. Sociology,3,Interest in sociology,3,60000,24,0
+B.Tech Robotics,4,Interest in robotics engineering,4,190000,48,1
+B.Sc. Chemistry,5,Interest in chemistry,5,55000,24,0
+B.A. Psychology,4,Interest in psychology,4,60000,24,1
+B.Tech Electronics & Communication,3,Interest in electronics,3,195000,48,0
+B.Sc. Biotechnology,4,Interest in biotechnology,4,55000,24,1
+B.A. Economics,5,Interest in economics,5,60000,24,0
+B.Tech Civil,4,Interest in civil engineering,4,200000,48,1
+B.Sc. Physics,2,Interest in physics,2,55000,24,0
+B.A. English Literature,4,Interest in literature,4,60000,24,1
+B.Tech Computer Science,5,Interest in computer science,5,205000,48,0
+B.Sc. Mathematics,4,Interest in mathematics,4,55000,24,1
+B.A. Geography,3,Interest in geography,3,60000,24,0
+B.Tech Mechanical,4,Interest in mechanical engineering,4,210000,48,1
+B.Sc. Chemistry,5,Interest in chemistry,5,55000,24,0
+B.A. Sociology,4,Interest in sociology,4,60000,24,1
+B.Tech Electrical,3,Interest in electrical engineering,3,215000,48,0
+B.Sc. Biology,4,Interest in biology,4,55000,24,1
+B.A. Anthropology,5,Interest in anthropology,5,60000,24,0
+B.Tech Aerospace,4,Interest in aerospace engineering,4,220000,48,1
+B.Sc. Computer Science,3,Interest in computer science,3,55000,24,0
+B.A. English Literature,4,Interest in literature,4,60000,24,1
+B.Tech Industrial,5,Interest in industrial engineering,5,225000,48,0
+B.Sc. Mathematics,4,Interest in mathematics,4,55000,24,1
+B.A. History,3,Interest in history,3,60000,24,0
+B.Tech Chemical,4,Interest in chemical engineering,4,230000,48,1
+B.Sc. Physics,2,Interest in physics,2,55000,24,0
+B.A. Psychology,4,Interest in psychology,4,60000,24,1
+B.Tech Electronics & Communication,3,Interest in electronics,3,235000,48,0
+B.Sc. Biotechnology,4,Interest in biotechnology,4,55000,24,1
+B.A. Economics,5,Interest in economics,5,60000,24,0
+B.Tech Civil,4,Interest in civil engineering,4,240000,48,1
+B.Sc. Chemistry,5,Interest in chemistry,5,55000,24,0
+B.A. Sociology,4,Interest in sociology,4,60000,24,1
+B.Tech Electrical,3,Interest in electrical engineering,3,245000,48,0
+B.Sc. Biology,4,Interest in biology,4,55000,24,1
+B.A. Anthropology,5,Interest in anthropology,5,60000,24,0
+B.Tech Aerospace,4,Interest in aerospace engineering,4,250000,48,1
+B.Sc. Computer Science,3,Interest in computer science,3,55000,24,0
+B.A. English Literature,4,Interest in literature,4,60000,24,1
+B.Tech Industrial,5,Interest in industrial engineering,5,255000,48,0
+B.Sc. Mathematics,4,Interest in mathematics,4,55000,24,1
+B.A. History,3,Interest in history,3,60000,24,0
+B.Tech Chemical,4,Interest in chemical engineering,4,260000,48,1
+B.Sc. Physics,2,Interest in physics,2,55000,24,0
+B.A. Psychology,4,Interest in psychology,4,60000,24,1
+B.Tech Electronics & Communication,3,Interest in electronics,3,265000,48,0
+B.Sc. Biotechnology,4,Interest in biotechnology,4,55000,24,1
+B.A. Economics,5,Interest in economics,5,60000,24,0
+B.Tech Civil,4,Interest in civil engineering,4,270000,48,1
+B.Sc. Chemistry,5,Interest in chemistry,5,55000,24,0
+B.A. Sociology,4,Interest in sociology,4,60000,24,1
+B.Tech Electrical,3,Interest in electrical engineering,3,275000,48,0
+B.Sc. Biology,4,Interest in biology,4,55000,24,1
+B.A. Anthropology,5,Interest in anthropology,5,60000,24,0
+B.Tech Aerospace,4,Interest in aerospace engineering,4,280000,48,1
+B.Sc. Computer Science,3,Interest in computer science,3,55000,24,0
+B.A. English Literature,4,Interest in literature,4,60000,24,1
+B.Tech Industrial,5,Interest in industrial engineering,5,285000,48,0
+B.Sc. Mathematics,4,Interest in mathematics,4,55000,24,1
+B.A. History,3,Interest in history,3,60000,24,0
+B.Tech Chemical,4,Interest in chemical engineering,4,290000,48,1
+B.Sc. Physics,2,Interest in physics,2,55000,24,0
+B.A. Psychology,4,Interest in psychology,4,60000,24,1
+B.Tech Electronics & Communication,3,Interest in electronics,3,295000,48,0
+B.Sc. Biotechnology,4,Interest in biotechnology,4,55000,24,1
+B.A. Economics,5,Interest in economics,5,60000,24,0
+B.Tech Civil,4,Interest in civil engineering,4,300000,48,1
+B.Sc. Chemistry,5,Interest in chemistry,5,55000,24,0
+B.A. Sociology,4,Interest in sociology,4,60000,24,1
+B.Tech Electrical,3,Interest in electrical engineering,3,305000,48,0
+B.Sc. Biology,4,Interest in biology,4,55000,24,1
+B.A. Anthropology,5,Interest in anthropology,5,60000,24,0
+B.Tech Aerospace,4,Interest in aerospace engineering,4,310000,48,1
+B.Sc. Computer Science,3,Interest in computer science,3,55000,24,0
+B.A. English Literature,4,Interest in literature,4,60000,24,1
+B.Tech Industrial,5,Interest in industrial engineering,5,315000,48,0
+B.Sc. Mathematics,4,Interest in mathematics,4,55000,24,1
